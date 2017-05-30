@@ -1,0 +1,3 @@
+The entries in the data were skewed towards the entry BLANKPLATE. Large number of entries had BLANKPLATE as plate_id and 99 as regestration state which is inconsistent as it does not point to any state. 
+
+Also some plate_id had ',' in them which indicated that they were not precise entries
